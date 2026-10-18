@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>ne_110m_land.geojson</file>
+    </qresource>
+</RCC>
